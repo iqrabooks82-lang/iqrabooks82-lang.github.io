@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "uz.kamerachi.jamoa",
+    "sha256_cert_fingerprints": ["90:78:D8:D1:A6:DC:1F:2F:B7:CA:CC:BD:6B:34:E4:0F:74:3E:09:9A:52:E5:BF:B6:FF:91:8A:A5:C9:5E:43:4E"]
+  }
+}]
